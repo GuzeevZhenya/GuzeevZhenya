@@ -7,7 +7,7 @@
 - :mag_right: I’m looking for a frontend developer job.
 - :mortar_board: I have 2 years learning experience in React.
 - 📖 I learn something new every day
-- ☕: I turn coffee into code)
+- ☕ I turn coffee into code)
 <hr/>
 
 :hammer_and_wrench: Languages and Tools :
