@@ -1,7 +1,7 @@
 # Hi, my name is Zhenya and I am a Frontend Developer!
 ## 🔗 Связь со мной
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Guzeev_96)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Guzeev_96)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/evgeny-guzeev-7aa5b71a2/)
 
 - :mag_right: I’m looking for a frontend developer job.
