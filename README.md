@@ -4,20 +4,13 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Guzeev_96)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/evgeny-guzeev-7aa5b71a2/)
 
-<!--
-**GuzeevZhenya/GuzeevZhenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m cuцуацуа
-- 🌱 I’m уацуа
-- 👯 I’m цуацуацу
-- 🤔 I’m цуацуацуа
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mag_right: I’m looking for a frontend developer job.
+- :mortar_board: I have 3 years learning experience in JS.
+- :woman_teacher: I have been working like a teacher for 2 years.
+- :tea: In my free time I like to play board games, walk in forest and take a tea ceremony.
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Aller_Fl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aller_Fl)
+<hr/>
+:hammer_and_wrench: Languages and Tools :
 
 <div align="center">
   <br/>
