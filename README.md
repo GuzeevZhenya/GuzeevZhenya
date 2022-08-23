@@ -4,10 +4,11 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Guzeev_96)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/evgeny-guzeev-7aa5b71a2/)
 
-- :mag_right: I’m looking for a frontend developer job / .
+- :mag_right: I’m looking for a frontend developer job.
 - :mortar_board: I have 2 years learning experience in React.
-- 👨‍🏫: I learn something new every day..
-- ☕: I turn coffee into code
+- :men_teacher: I learn something new every day
+- :tea: In my free time I like to play board games. 
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Aller_Fl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aller_Fl)
 <hr/>
 :hammer_and_wrench: Languages and Tools :
 
@@ -32,4 +33,5 @@
  <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuzeevZhenya&show_icons=true&theme=radical)
+  <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuzeevZhenya&layout=compact)](https://github.com/GuzeevZhenya/github-readme-stats)
