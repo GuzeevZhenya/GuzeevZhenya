@@ -7,11 +7,10 @@
 - :mag_right: I’m looking for a frontend developer job.
 - :mortar_board: I have 2 years learning experience in React.
 - 📖 I learn something new every day
-- ☕: I turn coffee into code
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Aller_Fl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aller_Fl)
+- ☕: I turn coffee into code)
 <hr/>
-:hammer_and_wrench: Languages and Tools :
 
+:hammer_and_wrench: Languages and Tools :
 <div align="center">
   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
