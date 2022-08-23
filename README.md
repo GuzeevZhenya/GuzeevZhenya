@@ -6,9 +6,8 @@
 
 - :mag_right: I’m looking for a frontend developer job / .
 - :mortar_board: I have 2 years learning experience in React.
-- :men_teacher: I learn something new every day..
-- :tea: In my free time I like to play board games. 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Aller_Fl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aller_Fl)
+- 👨‍🏫: I learn something new every day..
+- ☕: I turn coffee into code
 <hr/>
 :hammer_and_wrench: Languages and Tools :
 
