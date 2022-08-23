@@ -1,4 +1,7 @@
-### Hi there 👋
+# Привет. Меня зовут Женя, и Я Frontend-разработчик. Люблю реакту, и все что с ним связано, ищу работу/стажировку.
+## 🔗 Связь со мной
+[![Telegram Badge](https://img.shields.io/badge/Telegram-fff?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/Guzeev_96)
+
 
 <!--
 **GuzeevZhenya/GuzeevZhenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
